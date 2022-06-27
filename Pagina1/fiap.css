@@ -1,0 +1,59 @@
+body {
+    background-image: url("fundo.jpg");
+    background-repeat: no-repeat;
+   }
+
+img {
+    background: url(foto.jpg);
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    left: 115px;
+    top: 24px;
+    border-radius: 100px;
+}
+
+
+button#button1 {
+
+position: absolute;
+width: 64px;
+height: 40px;
+left: 16px;
+top: 16px;
+
+}
+
+button#button2 {
+
+position: absolute;
+width: 64px;
+height: 40px;
+left: 272px;
+top: 16px;
+
+}
+
+img#Poupanca {
+    position: absolute;
+    width: 296px;
+    height: 114px;
+    left: 32px;
+    top: 198px;
+
+    background: #E5E5E5;
+    mix-blend-mode: overlay;
+    border-radius: 12px;
+}
+
+img#Gasto {
+    position: absolute;
+    width: 296px;
+    height: 114px;
+    left: 32px;
+    top: 422px;
+
+    background: #C4C4C4;
+    mix-blend-mode: overlay;
+    border-radius: 12px;
+}
